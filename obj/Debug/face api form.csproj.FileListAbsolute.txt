@@ -1,0 +1,58 @@
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\face api form.exe.config
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\face api form.exe
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\face api form.pdb
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alper\source\repos\face api form\face api form\obj\Debug\face api form.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\face api form\face api form\obj\Debug\face_api_form.Form1.resources
+C:\Users\alper\source\repos\face api form\face api form\obj\Debug\face_api_form.Properties.Resources.resources
+C:\Users\alper\source\repos\face api form\face api form\obj\Debug\face api form.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\face api form\face api form\obj\Debug\face api form.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\face api form\face api form\obj\Debug\face api form.csproj.CopyComplete
+C:\Users\alper\source\repos\face api form\face api form\obj\Debug\face api form.exe
+C:\Users\alper\source\repos\face api form\face api form\obj\Debug\face api form.pdb
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\WindowsBase.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.xml
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\AForge.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\AForge.Video.dll
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\AForge.xml
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\AForge.Video.xml
+C:\Users\alper\source\repos\face api form\face api form\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\face api form.exe.config
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\face api form.exe
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\face api form.pdb
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\AForge.dll
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\WindowsBase.dll
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\AForge.xml
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\AForge.Video.xml
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.xml
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\obj\Debug\face api form.csprojAssemblyReference.cache
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\obj\Debug\face_api_form.Form1.resources
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\obj\Debug\face_api_form.Properties.Resources.resources
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\obj\Debug\face api form.csproj.GenerateResource.cache
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\obj\Debug\face api form.csproj.CoreCompileInputs.cache
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\obj\Debug\face api form.csproj.CopyComplete
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\obj\Debug\face api form.exe
+C:\Users\TahsinIlhanÖZÇELİK\Desktop\face api form\face api form\obj\Debug\face api form.pdb
